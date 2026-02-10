@@ -25,6 +25,16 @@ The analysis uses publicly available COVID-19 datasets containing daily reported
 - CTEs and Views for reusable logic
 - Handling NULL values and cumulative metrics
 
+## Key Insights
+- COVID impact varied significantly when normalized by population rather than raw totals.
+- Reported case fatality ratios and deaths differed across regions due to reporting definitions and timing.
+- Vaccination progress accelerated unevenly across countries during the 2020–2021 period.
+- Rolling and time-series metrics provided clearer trends than daily raw counts.
+
+## Limitations
+- Dataset covers January 2020 through late 2021.
+- Figures represent reported data and may differ from later revisions or estimates.
+
 ## Notes
 This project emphasizes data exploration and interpretation rather than definitive public health conclusions. Reported figures depend on data source definitions and update frequency.
 
