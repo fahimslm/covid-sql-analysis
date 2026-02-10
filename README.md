@@ -35,6 +35,11 @@ The analysis uses publicly available COVID-19 datasets containing daily reported
 - Dataset covers January 2020 through late 2021.
 - Figures represent reported data and may differ from later revisions or estimates.
 
+## Data Availability
+The raw dataset is publicly available via Our World in Data.
+Raw files are not included in this repository, as analysis was
+performed using a database-backed workflow.
+
 ## Notes
 This project emphasizes data exploration and interpretation rather than definitive public health conclusions. Reported figures depend on data source definitions and update frequency.
 
