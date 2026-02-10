@@ -36,4 +36,4 @@ SELECT TOP 10
 FROM CovidDeaths
 WHERE continent IS NOT NULL
 GROUP BY location, population
-ORDER BY max_percent_population_infected DESC;
+ORDER BY max_percent_population_infected DESC;  
